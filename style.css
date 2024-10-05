@@ -1,0 +1,137 @@
+
+
+.d-block{
+    height: 700px ;
+    width: 100%;
+}
+.carousel-caption{
+    background: rgba(0, 0, 0, 0.42) !important;
+    height: 700px !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+    display: flex !important;
+    flex-direction: column !important;
+    
+}
+
+
+.nav-link{
+    color: #777777 !important;
+    font-size: 18px;
+    font-weight: 400px;
+    padding: 0 20px;
+    
+}
+.slider_area{
+    height: 700px !important;
+    margin-bottom: 130px !important;
+}
+.img-fluid{
+    height: 100%;
+    width: 100%;
+}
+.slider_content{
+    background: rgba(0, 0, 0, 0.332);
+    height: 100% !important;
+    width: 100% !important;
+}
+.carousel-caption{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+
+}
+.img-fluid{
+    display: flex;
+    gap: 10px;
+}
+.pic{
+    justify-content: center;
+    margin: auto;
+    margin-top: 130px;
+    width: 872px;
+height: 710px;
+top: 5020px;
+left: 364px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+.c-body{
+    width: 1320px;
+height: 300px;
+top: 3048px;
+left: 140px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+margin-bottom: 130px;
+margin-top: 130px;
+background: #289BDE;
+display: flex;
+justify-content: space-between;
+}
+.c-body {
+    width: 1320px;
+    height: 300px;
+    top: 3048px;
+    left: 140px;
+    gap: 0px;
+    border-radius: 5px;
+    opacity: 0px;
+    margin-bottom: 130px;
+    margin-top: 130px;
+    background: #289BDE;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    padding: 79px;
+    box-sizing: border-box;
+}
+.text{
+    margin-top: 50px;
+}
+.Group{
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+.tanu{
+    width: 321px;
+height: 212px;
+top: 6252px;
+left: 640px;
+gap: 0px;
+opacity: 0px;
+background: black;
+
+margin: auto;
+}
+.white{
+    width: 606px;
+height: 546px;
+top: 2242px;
+left: 800px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+align-items: center;
+
+}
+.computer{
+    width: 600px;
+height: 806px;
+top: 2112px;
+left: 140px;
+gap: 0px;
+opacity: 0px;
+
+}
